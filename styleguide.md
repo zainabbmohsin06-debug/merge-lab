@@ -1,2 +1,2 @@
-if you have questions, please
-TODO
+IF you have questions, please 
+ ask your question in IRC.
