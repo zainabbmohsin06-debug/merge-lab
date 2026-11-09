@@ -1,2 +1,2 @@
-if you have questions, please
-TODO
+If you have questions, please
+ open an issue
